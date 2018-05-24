@@ -1,0 +1,10 @@
+fa fa-industry
+fa fa-link
+fa fa-code-fork
+fa fa-unlink
+fa fa-wrench
+fa fa-thermometer-3
+glyphicon glyphicon-globe
+glyphicon glyphicon-hourglass
+glyphicon glyphicon-tint
+glyphicon glyphicon-warning-sign
